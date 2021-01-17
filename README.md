@@ -1,3 +1,5 @@
+![This is me](/autoportret_transparent.png)
+
 ### Hello World!
 
 My name is **Ola Frost** and I'm a Full-Stack Web Development student in Digital
