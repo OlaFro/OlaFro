@@ -1,16 +1,15 @@
-### Hi there 👋
+###Hello World!
 
-<!--
-**OlaFro/OlaFro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is *Ola Frost* and I'm a Full-Stack Web Development student in Digital
+Career Institute in Leipzig, Germany. I'm graduating my one-year full-time
+intensive MERN stack course in March 2021.
 
-Here are some ideas to get you started:
+I'm passionate about technology and programming — perfect tools for a creative
+craftsman like myself. Being involved several years in the creative field
+and sales, I’m looking for a job where I will contribute in creating
+extraordinary user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm also interested in remote position from outside of Leipzig. Don't hesitate
+to contact me!
+
+[My linkedIn profile](www.linkedin.com/in/ola-frost)
