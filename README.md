@@ -1,5 +1,3 @@
-<div align=center>![This is me](/ola.png)</div>
-
 ### Hello World!
 
 My name is **Ola Frost** and I'm a Full-Stack Web Development student in Digital
