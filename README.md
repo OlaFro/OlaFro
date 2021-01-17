@@ -1,4 +1,4 @@
-![This is me](/ola.png)
+<div align=center>![This is me](/ola.png)</div>
 
 ### Hello World!
 
