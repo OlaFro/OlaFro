@@ -1,4 +1,4 @@
-![This is me](/autoportret_transparent.png)
+![This is me](/ola.png)
 
 ### Hello World!
 
