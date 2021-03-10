@@ -14,3 +14,6 @@ I'm interested in remote positions from outside of Leipzig too. Don't hesitate
 to contact me!
 
 **[My linkedIn profile](www.linkedin.com/in/ola-frost)**
+
+
+**[My portfolio page](www.olafrost.com)**
